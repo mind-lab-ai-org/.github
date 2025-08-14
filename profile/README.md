@@ -1,4 +1,4 @@
-# 🤖 Mind Lab AI
+# 🤖 MindLab AI
 
 <div align="center">
   <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge" alt="AI Powered">
