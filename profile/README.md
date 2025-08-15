@@ -25,21 +25,21 @@
 
 ---
 
-## 🚀 **Our Solutions**
+##  **Our Solutions**
 
-### 🤖 **Multi-Agent AI Platform**
+###  **Multi-Agent AI Platform**
 Intelligent orchestration of multiple specialized agents collaborating to automate support and sales. **Brand-aligned precision** with automatic handoff to humans when needed.
 
-### 👥 **Digital Humans with Emotional Intelligence**
+###  **Digital Humans with Emotional Intelligence**
 AI agents that understand context and emotions, delivering high-impact customer experiences with **responses in under 5 seconds**.
 
-### 🔗 **Complete Enterprise Integration**
+###  **Complete Enterprise Integration**
 - **CRMs & ERPs** - Native connection to your systems
 - **Customer Pipeline** - Automatic journey tracking
 - **Version Control** - Advanced prompt management
 - **No Technical Intervention** - Automatic adaptability
 
-### 📊 **Intelligent Automation**
+###  **Intelligent Automation**
 - **90% automation** without human intervention
 - **65% reduction** in labor costs  
 - **Agent orchestration** for complex tasks
@@ -83,7 +83,7 @@ AI agents that understand context and emotions, delivering high-impact customer 
 
 ---
 
-## 🏆 **Featured Projects**
+##  **Featured Projects**
 
 <table>
   <tr>
@@ -99,7 +99,7 @@ AI agents that understand context and emotions, delivering high-impact customer 
       <a href="https://github.com/mind-lab-ai-org/agents-manager">→ View repository</a>
     </td>
     <td width="50%">
-      <h3>🎨 Frontend Dashboard</h3>
+      <h3> Frontend Dashboard</h3>
       <p><strong>Enterprise Control Panel</strong></p>
       <p>React/Next.js dashboard with real-time analytics, agent management, conversation panel and administrative tools.</p>
       <p>
@@ -144,14 +144,14 @@ AI agents that understand context and emotions, delivering high-impact customer 
 
 | **Sector** | **Specialized Solution** | **Measurable Impact** |
 |------------|--------------------------|----------------------|
-| 🏥 **Healthcare** | Automated scheduling and triage | **90% automation** |
-| 🏦 **Finance** | 24/7 financial advisory | **65% cost reduction** |
-| 🏛️ **Public Services** | Intelligent citizen support | **< 5s response** |
-| 📱 **Telecommunications** | Multi-agent technical support | **Brand-aligned precision** |
+|  **Healthcare** | Automated scheduling and triage | **90% automation** |
+|  **Finance** | 24/7 financial advisory | **65% cost reduction** |
+|  **Public Services** | Intelligent citizen support | **< 5s response** |
+|  **Telecommunications** | Multi-agent technical support | **Brand-aligned precision** |
 
 </div>
 
-### 🎯 **Real Success Cases**
+###  **Real Success Cases**
 - **Zero-intervention automation**: Systems that learn and adapt autonomously
 - **Human experiences**: AI with real emotional intelligence
 - **Agent collaboration**: Multiple specialists working together
@@ -159,41 +159,41 @@ AI agents that understand context and emotions, delivering high-impact customer 
 
 ---
 
-## 🎯 **Why Choose Mind Lab AI?**
+##  **Why Choose Mind Lab AI?**
 
 <div align="center">
 
-### 🤝 **Real Agent Collaboration**
+###  **Real Agent Collaboration**
 First platform enabling multiple AIs to work together intelligently
 
-### 👤 **Truly Human Experiences**
+###  **Truly Human Experiences**
 Integrated emotional intelligence that understands context and feelings
 
-### 🔄 **Zero-Intervention Adaptability**
+###  **Zero-Intervention Adaptability**
 Systems that evolve automatically without requiring technical configuration
 
-### 🌍 **Global Reach, Local Impact**
+###  **Global Reach, Local Impact**
 From California, USA to the world - Solutions that scale intelligently
 
 </div>
 
 ---
 
-## 🚀 **Request Personalized Demo**
+##  **Request Personalized Demo**
 
 <div align="center">
 
-### 🎯 **Live Demonstration**
+###  **Live Demonstration**
 See how our agents collaborate in real-time
 
 [![Demo](https://img.shields.io/badge/🎮_Request_Demo-See_in_Action-purple?style=for-the-badge)](https://mind-lab.ai/es)
 
-### 📞 **Sales Meeting**
+###  **Sales Meeting**
 Personalized analysis for your specific industry
 
 [![Sales](https://img.shields.io/badge/📞_Schedule_Meeting-Sales-blue?style=for-the-badge)](https://mind-lab.ai/es)
 
-### 💬 **Direct Contact**
+###  **Direct Contact**
 Specific questions about implementation?
 
 [![Contact](https://img.shields.io/badge/📧_Direct_Contact-Support-red?style=for-the-badge)](https://mind-lab.ai/es)
@@ -202,7 +202,7 @@ Specific questions about implementation?
 
 ---
 
-## 📊 **Organization Statistics**
+##  **Organization Statistics**
 
 <div align="center">
 
@@ -214,11 +214,11 @@ Specific questions about implementation?
 
 ---
 
-## 🌟 **Global Impact**
+##  **Global Impact**
 
 <div align="center">
 
-### 🎯 **Metrics That Matter**
+###  **Metrics That Matter**
 ```
 90% → Zero-intervention automation
 65% → Operational cost reduction  
@@ -226,10 +226,10 @@ Specific questions about implementation?
 100% → Brand-aligned precision
 ```
 
-### 🏢 **High-Impact Sectors**
+###  **High-Impact Sectors**
 **Healthcare** • **Finance** • **Public Services** • **Telecommunications**
 
-### 🌍 **Global Presence**
+###  **Global Presence**
 **🇺🇸 Headquarters:** California, USA • **🌎 Reach:** Worldwide
 
 </div>
