@@ -262,7 +262,7 @@ The fastest way to understand the difference is to watch<br>a few agents solve s
 
 <sub>
 
-[mind-lab.ai](https://mind-lab.ai) · [hello@mind-lab.ai](mailto:j@mind-lab.ai) · [LinkedIn](https://linkedin.com/company/mindlab-ai)
+[mind-lab.ai](https://mind-lab.ai) · [j@mind-lab.ai](mailto:j@mind-lab.ai) · [LinkedIn](https://linkedin.com/company/mindlab-ai)
 
 </sub>
 
