@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/Website-mind--lab.ai-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mind-lab.ai)
 [![Book a demo](https://img.shields.io/badge/Book_a_live_demo-See_agents_collaborate-2563EB?style=for-the-badge&logo=calendly&logoColor=white)](https://mind-lab.ai)
-[![Contact](https://img.shields.io/badge/hello@mind--lab.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@mind-lab.ai)
+[![Contact](https://img.shields.io/badge/j@mind--lab.ai-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j@mind-lab.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/mindlab-ai)
 
 <br>
