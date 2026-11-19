@@ -183,8 +183,7 @@ Independiente del modelo: eliges el proveedor y el modelo para cada agente y los
 
 ## El equipo
 
-**Juan Balan** — CEO · **Cesar Cappellini** — COO · **Felipe Traina** — CTO
-<br>Con ingenieros de backend, frontend, DevOps e integraciones en Estados Unidos y América Latina.
+Ingenieros de backend, frontend, DevOps e integraciones en Estados Unidos y América Latina.
 
 <br>
 

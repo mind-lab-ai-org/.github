@@ -183,8 +183,7 @@ Model-agnostic by design: choose the provider and model per agent and switch wit
 
 ## The team
 
-**Juan Balan** — CEO · **Cesar Cappellini** — COO · **Felipe Traina** — CTO
-<br>With backend, frontend, DevOps and integration engineers across the United States and Latin America.
+Backend, frontend, DevOps and integration engineers across the United States and Latin America.
 
 <br>
 
