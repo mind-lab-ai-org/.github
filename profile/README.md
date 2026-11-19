@@ -183,7 +183,7 @@ Model-agnostic by design: choose the provider and model per agent and switch wit
 
 ## The team
 
-**Juan Balan** — CEO & Founder · **Cesar Cappellini** — COO, Founder & Product Director · **Felipe Traina** — CTO, Founder & Chief AI Officer
+**Juan Balan** — CEO · **Cesar Cappellini** — COO · **Felipe Traina** — CTO
 <br>With backend, frontend, DevOps and integration engineers across the United States and Latin America.
 
 <br>
